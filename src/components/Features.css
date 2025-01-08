@@ -1,0 +1,25 @@
+/* Features.css */
+.features {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    background-color: #121212;
+  }
+  
+  .feature-card {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    width: 30%;
+    color: white;
+    text-align: center;
+  }
+  
+  .feature-card h2 {
+    font-size: 1.8rem;
+  }
+  
+  .feature-card p {
+    font-size: 1rem;
+  }
+  
